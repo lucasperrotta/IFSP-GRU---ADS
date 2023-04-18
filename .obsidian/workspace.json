@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7040ec5a0e890e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc7880049c61b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ca37de6e8d4f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96991880f77f0a11",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf5b906963feee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28841563a7fbe8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce32479a4f09bb29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f71399249955b1d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a19b0b5046ecfe17",
+    "type": "split",
+    "children": [
+      {
+        "id": "daa1d1ee730be169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00d78d7f41b2b871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8572854280c17564",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccb24edeb9a7277b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67685809a79b1cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b5ca37de6e8d4f3e",
+  "lastOpenFiles": [
+    "LICENSE.md",
+    "asdasd.md",
+    "README.md",
+    "Colaboradores/Lucas Perrotta.md",
+    "IFSP GRU - ADS/README.md",
+    "Leia Me.md",
+    "IFSP GRU - ADS/Leia Me.md",
+    "IFSP GRU - ADS/Disciplinas",
+    "IFSP GRU - ADS/Colaboradores/Lucas Perrotta.md",
+    "IFSP GRU - ADS/Colaboradores/Colaboradores.md",
+    "IFSP GRU - ADS/Colaboradores",
+    "IFSP GRU - ADS/LICENSE.md",
+    "IFSP GRU - ADS",
+    "Disciplinas",
+    "Colaboradores/Colaboradores.md",
+    "().md",
+    "Colaboradores"
+  ]
+}
