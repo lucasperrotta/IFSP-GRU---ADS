@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Colaboradores/Lucas Perrotta.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a19b0b5046ecfe17",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Colaboradores/Lucas Perrotta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Colaboradores/Lucas Perrotta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Colaboradores/Lucas Perrotta.md"
               }
             }
           }
@@ -148,9 +149,11 @@
   },
   "active": "b5ca37de6e8d4f3e",
   "lastOpenFiles": [
+    "icon-perrotta.png",
+    "Colaboradores/Colaboradores.md",
+    "README.md",
     "LICENSE.md",
     "asdasd.md",
-    "README.md",
     "Colaboradores/Lucas Perrotta.md",
     "IFSP GRU - ADS/README.md",
     "Leia Me.md",
@@ -162,7 +165,6 @@
     "IFSP GRU - ADS/LICENSE.md",
     "IFSP GRU - ADS",
     "Disciplinas",
-    "Colaboradores/Colaboradores.md",
     "().md",
     "Colaboradores"
   ]
