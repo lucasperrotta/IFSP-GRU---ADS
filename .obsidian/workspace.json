@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc7880049c61b1d",
+        "id": "d1e2154268f97d95",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ca37de6e8d4f3e",
+            "id": "9dd69b217e1a7f8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DIJAOSDIOJ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b5ca37de6e8d4f3e",
+  "active": "9dd69b217e1a7f8e",
   "lastOpenFiles": [
-    "Colaboradores/icons/icon-perrotta.png",
-    "Colaboradores/icons",
-    "icon-perrotta.png",
+    "Regulamento_Estudantes_RMSP.pdf",
+    "Sem título.canvas",
+    "Solicitação vale transporte/Docs secretos dos magos do transporte para estudantes/Regulamento passe livre 2022.md",
+    "Solicitação vale transporte/passe escolar.md",
+    "Solicitação vale transporte/Guarupass - Municipal.md",
+    "Solicitação vale transporte/Docs secretos dos magos do transporte para estudantes",
+    "Solicitação vale transporte",
+    "Sem título 1.canvas",
+    "Processos/Trâmite comuns.md",
+    "Processos",
     "LICENSE.md",
     "README.md",
     "Colaboradores/Lucas Perrotta.md",
     "Colaboradores/Colaboradores.md",
+    "Colaboradores/icons/icon-perrotta.png",
+    "Colaboradores/icons",
+    "icon-perrotta.png",
     "asdasd.md",
     "IFSP GRU - ADS/README.md",
     "Leia Me.md",
